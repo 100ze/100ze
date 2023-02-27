@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @100ze
-- 👀 I’m interested in everything with logic and circuits!
-- 🌱 I’m currently learning ruby and linux
-- 💞️ I’m looking to collaborate on web development and infraestructure
+:D
